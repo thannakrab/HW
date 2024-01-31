@@ -2,11 +2,16 @@ Report about learning Metabolomics class
 
 Wannapat Masangwunthong 665070039-7
 
+
 Metabolomics is the systematic study of all the metabolites (<1000 Da) present within a biological system.
 
 A subset of metabolomics is defined as the quantitative measurement of metabolites. The study is specific to the biological sample that in the response to the stimuli such as anticancer agents, environment and genetic modification.
 
+
+
 Analytical platforms in metabolomics research
+
+
 1.Mass spectrometry (MS)
 
 advantage
@@ -29,6 +34,8 @@ advantage
 - Nondestructive: the samples can be retained for further analysis or validation after NMR measurements.
 - Structure Elucidation: NMR spectroscopy provides detailed information about molecular structure, including connectivity, chemical shifts, and coupling patterns, facilitating the identification and characterization of metabolites.
 
+  
+
 Metabolites consist 
 
                     - Endogenous metabolites : involved in various essential biological functions, such as energy production, cell signaling, and maintenance of cellular homeostasis.
@@ -38,6 +45,9 @@ Metabolites consist
                     - Microbial metabolites : include short-chain fatty acids (SCFAs) produced by gut bacteria through the fermentation of dietary fiber, as well as other metabolites with diverse biological activities.
                     
                     - Biofluid : such as blood, urine, cerebrospinal fluid, and saliva. These metabolites can provide valuable information about the metabolic status of an individual or the effects of certain conditions or interventions. Biofluid metabolites can be derived from endogenous metabolism, dietary intake, or the metabolic activities of microbes within the body.
+
+
+                    
 
 NMR and data acquisition
 
@@ -61,6 +71,9 @@ The data acquisition process in NMR involves several steps:
 
 7. Data Processing and Analysis: The acquired NMR spectra are processed and analyzed using specialized software. This may involve baseline correction, phase correction, peak picking, integration, and further manipulation to extract useful information about the sample's chemical structure, molecular dynamics, and interactions.
 
+
+
+
 workflow of metabolic profiling
 
 Experimental design : This step involves planning the study objectives, selecting appropriate sample types, defining the sample size, and determining the experimental conditions. The experimental design should be carefully considered to ensure it aligns with the research goals and allows for meaningful analysis.
@@ -77,6 +90,9 @@ Experimental design : This step involves planning the study objectives, selectin
 
 -----> Interpretation & Validation : Once metabolites are identified, their biological relevance and potential implications are interpreted in the context of the study objectives. This step involves comparing the findings with existing knowledge, biological pathway analysis, and validation through additional experiments or replication studies.
 
+
+
+
 Applications of NMR metabolomics
 
 1.Diagnostics - NMR metabolomics can be used in clinical diagnostics to analyze biofluids such as urine, plasma, and feces for the identification of metabolic biomarkers associated with various diseases. For example, it can be applied to detect and monitor biomarkers related to periductal fibrosis, a condition characterized by abnormal tissue growth around the bile ducts.
@@ -90,6 +106,9 @@ Applications of NMR metabolomics
 5.Plant growth & harvest - NMR metabolomics can be applied to assess the metabolic changes in plants during different growth stages and harvesting conditions. By analyzing age-associated metabolic fingerprints, NMR helps understand the physiological changes that occur in plants over time and optimize growth conditions for improved crop yield and quality.
 
 6.Gut health - NMR metabolomics is valuable in studying gut health, including the effects of bariatric surgery and the role of the gut microbiome. It can help identify metabolic markers associated with changes in gut microbiota composition and assess the impact of interventions on gut health.
+
+
+
 
 coding
 
