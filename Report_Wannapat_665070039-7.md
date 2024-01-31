@@ -3,18 +3,28 @@ Report about learning Metabolomics class
 Wannapat Masangwunthong 665070039-7
 
 Metabolomics is the systematic study of all the metabolites (<1000 Da) present within a biological system.
+
 A subset of metabolomics is defined as the quantitative measurement of metabolites. The study is specific to the biological sample that in the response to the stimuli such as anticancer agents, environment and genetic modification.
 
 Analytical platforms in metabolomics research
 1.Mass spectrometry (MS)
+
 advantage
+
 - High Sensitivity
+  
 - Low Amount of Sample
+  
 - High Throughput : enabling the analysis of a large number of samples in a relatively short period.
+  
 - Metabolite Identification: MS can provide valuable information about the structure and identity of metabolites through techniques such as tandem MS (MS/MS) or accurate mass measurements.
+  
 2.Nuclear magnetic resonance (NMR) spectroscopy
+
 advantage
+
 - Easy Sample Preparation
+  
 - High Reproducibility: allowing for reliable comparisons of metabolite profiles across different samples or experimental conditions.
 - Nondestructive: the samples can be retained for further analysis or validation after NMR measurements.
 - Structure Elucidation: NMR spectroscopy provides detailed information about molecular structure, including connectivity, chemical shifts, and coupling patterns, facilitating the identification and characterization of metabolites.
