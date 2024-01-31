@@ -30,6 +30,7 @@ advantage
 - Structure Elucidation: NMR spectroscopy provides detailed information about molecular structure, including connectivity, chemical shifts, and coupling patterns, facilitating the identification and characterization of metabolites.
 
 Metabolites consist 
+
                     - Endogenous metabolites : involved in various essential biological functions, such as energy production, cell signaling, and maintenance of cellular homeostasis.
 
                     - Dietarycomponents : include nutrients (e.g., carbohydrates, proteins, fats), vitamins, minerals, and other bioactive compounds present in the diet.
@@ -91,6 +92,7 @@ Applications of NMR metabolomics
 6.Gut health - NMR metabolomics is valuable in studying gut health, including the effects of bariatric surgery and the role of the gut microbiome. It can help identify metabolic markers associated with changes in gut microbiota composition and assess the impact of interventions on gut health.
 
 coding
+
 path = system.file("extdata/", package = 'nmrdata'); print(path)
 
 read1d_proc(path, exp_type = list(PULPROG='noesypr1d'))
